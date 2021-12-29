@@ -54,4 +54,4 @@ For me development consists in bringing cool ideas to life, implementing cool UI
   </tbody>
 </table>
 
-![](https://visitor-badge.glitch.me/badge?page_id=https://visitor-badge.glitch.me/badge?page_id=AlexMubarakshin)
+![](https://visitor-badge.glitch.me/badge?page_id=AlexMubarakshin)
