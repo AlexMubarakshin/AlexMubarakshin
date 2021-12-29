@@ -1,7 +1,7 @@
 # Hey there <img alt="👋" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <a href="https://www.linkedin.com/in/a1ex-dev/">
-  <img align="left" alt="Alex's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Alex's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <br />
@@ -25,7 +25,7 @@ For me development consists in bringing cool ideas to life, implementing cool UI
   <thead>
     <tr>
       <th>Job Name</th>
-      <th>Roles & responsibilities</th>
+      <th>Responsibilities</th>
       <th>Duration</th>
     </tr>
   </thead>
@@ -36,7 +36,7 @@ For me development consists in bringing cool ideas to life, implementing cool UI
       <td>September 2020 - Present</td>
     </tr>
   	<tr>
-      <td><b><a href="https://citronium.com/en/">Senior Frontend Developer at Citronium, Ltd.</a> </b></td>
+      <td><b><a href="https://citronium.com/en/">Frontend Tech Lead at Citronium, Ltd.</a> </b></td>
       <td>Development of outsourcing solutions and coordination of the front-end team. Providing Web Development training</td>
       <td>June 2019 - September 2020</td>
     </tr>
@@ -46,7 +46,7 @@ For me development consists in bringing cool ideas to life, implementing cool UI
       <td>February 2019 - June 2019</td>
     </tr>
     <tr>
-      <td><b>Senior Software Engineer at Digital Technologies, LLC</b></td>
+      <td><b>Software Engineer at Digital Technologies, LLC</b></td>
       <td>Working on a SaaS solution providing a platform for authentication, authorization and document exchange with guaranteed high levels of security and confidentiality.</td>
       <td>February 2016 - February 2019</td>
     </tr>
