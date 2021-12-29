@@ -1,4 +1,4 @@
-# Hey there <img alt="👋" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hey there <img alt="👋" src="https://github.com/AlexMubarakshin/AlexMubarakshin/blob/main/assets/hi.gif" width="29px">
 
 <a href="https://www.linkedin.com/in/a1ex-dev/">
   <img alt="Alex's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
