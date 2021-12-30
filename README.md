@@ -41,7 +41,7 @@ For me development consists in bringing cool ideas to life, implementing cool UI
       <td>June 2019 - September 2020</td>
     </tr>
     <tr>
-      <td><b><a href="https://yode.pro/">Frontend Developer at Yode.Pro</a> </b></td>
+      <td><b><a href="https://yode.pro/en/">Frontend Developer at Yode.Pro</a> </b></td>
       <td>Development of a mobile application for couriers. Creating business logic between the server and the mobile application</td>
       <td>February 2019 - June 2019</td>
     </tr>
