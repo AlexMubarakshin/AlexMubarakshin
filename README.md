@@ -1,4 +1,6 @@
-# Hey there <img alt="👋" src="https://github.com/AlexMubarakshin/AlexMubarakshin/blob/main/assets/hi.gif" width="29px">
+# Hey there 👋
+
+<!-- <img alt="👋" src="https://github.com/AlexMubarakshin/AlexMubarakshin/blob/main/assets/hi.gif" width="29px"> -->
 
 <a href="https://www.linkedin.com/in/a1ex-dev/">
   <img alt="Alex's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -11,7 +13,6 @@ Let's get acquainted, my name is Alex!
 I am a software engineer with over 5 years of experience.
 
 For me development consists in bringing cool ideas to life, implementing cool UI interfaces and creating sophisticated architecture
-
 
 - 🛠 Most of my projects are written in TypeScript
 - 💻 For Web-Applications I use ReactJS
@@ -33,7 +34,7 @@ For me development consists in bringing cool ideas to life, implementing cool UI
     <tr>
       <td><b><a href="https://cooklybookly.com/">Senior Frontend Developer at CooklyBookly, Ltd.</a> </b></td>
       <td>Designing application's architecture, Coordination of the frontend development team, developing independent modules (chat, streaming, monetization)</td>
-      <td>September 2020 - Present</td>
+      <td>September 2020 - May 2022</td>
     </tr>
   	<tr>
       <td><b><a href="https://citronium.com/en/">Frontend Tech Lead at Citronium, Ltd.</a> </b></td>
