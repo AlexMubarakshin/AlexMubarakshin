@@ -1,7 +1,7 @@
 # Hey there 👋
 
 <a href="https://www.linkedin.com/in/a1ex-dev/">
-  <img alt="Alex's LinkedIn" width="22px" src="https://github.com/AlexMubarakshinAlexMubarakshin/blob/main/assets/linkedin.svg" />
+  <img alt="Alex's LinkedIn" width="22px" src="https://raw.githubusercontent.com/AlexMubarakshin/AlexMubarakshin/main/assets/linkedin.svg" />
 </a>
 
 <br />
