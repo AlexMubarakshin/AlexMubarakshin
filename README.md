@@ -1,16 +1,14 @@
 # Hey there 👋
 
-<!-- <img alt="👋" src="https://github.com/AlexMubarakshin/AlexMubarakshin/blob/main/assets/hi.gif" width="29px"> -->
-
 <a href="https://www.linkedin.com/in/a1ex-dev/">
-  <img alt="Alex's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Alex's LinkedIn" width="22px" src="https://github.com/AlexMubarakshinAlexMubarakshin/blob/main/assets/linkedin.svg" />
 </a>
 
 <br />
 
 Let's get acquainted, my name is Alex!
 
-I am a software engineer with over 5 years of experience.
+I am a software engineer with over 7 years of experience.
 
 For me development consists in bringing cool ideas to life, implementing cool UI interfaces and creating sophisticated architecture
 
@@ -31,6 +29,11 @@ For me development consists in bringing cool ideas to life, implementing cool UI
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><b><a href="https://mayflower.work/">Frontend Engineer at Mayflower</a> </b></td>
+      <td>I'm currently a Frontend Engineer at an entertainment streaming company, where I'm actively involved in developing new features to enhance user experiences and boost engagement on our platform. My role also includes improving content discovery capabilities, making it easier for users to find and enjoy their favorite content.</td>
+      <td>October 2022 - ...</td>
+    </tr>
     <tr>
       <td><b><a href="https://cooklybookly.com/">Senior Frontend Developer at CooklyBookly, Ltd.</a> </b></td>
       <td>Designing application's architecture, Coordination of the frontend development team, developing independent modules (chat, streaming, monetization)</td>
